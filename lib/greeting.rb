@@ -1,0 +1,1 @@
+learn spec/02_cli_spec.rb
