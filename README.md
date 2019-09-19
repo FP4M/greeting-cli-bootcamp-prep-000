@@ -1,4 +1,4 @@
-# Greeting Cli
+spec/01_greeting_spec.rb
 
 ## Objectives
 
